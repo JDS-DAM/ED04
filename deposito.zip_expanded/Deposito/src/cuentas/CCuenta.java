@@ -11,7 +11,7 @@ package cuentas;
  * (he añadido unos tags "deprecated" en algunos métodos)
  * 
  * @author Jorge
- * @version 0.1.1
+ * @version 0.1.2
  * @since 0.1
  *
  */
